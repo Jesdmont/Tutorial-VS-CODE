@@ -1,0 +1,1 @@
+Practicaa de vs code, interpretador
